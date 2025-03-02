@@ -3,8 +3,6 @@
 API Testing with REST Assured - Framework Solution for an Open API called [Restful Booker](https://restful-booker.herokuapp.com/apidoc/index.html).
 This repository contains a solution for API testing using REST Assured, with a custom framework built to automate and efficiently test the Restful Booker API.
 
-The custom framework abstracts common setup tasks and provides efficient tools for interacting with the API, creating payloads, and validating responses. The tests follow business logic, ensuring clarity and maintainability.
-
 # Prerequisites
 
 - JDK 21
